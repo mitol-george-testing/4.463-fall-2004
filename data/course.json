@@ -1,0 +1,37 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Materials Science and Engineering"
+    ],
+    [
+      "Engineering",
+      "Civil Engineering",
+      "Structural Engineering"
+    ],
+    [
+      "Fine Arts",
+      "Architecture",
+      "Architectural Engineering"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "734cbd71-7a77-6aa2-1623-754918b41ded"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Building Technology III: Building Structural Systems",
+  "course_description": "This course addresses advanced structures, exterior envelopes and contemporary production technologies. It continues the exploration of structural elements and systems, and expands to include more complex determinate, indeterminate, long-span and high-rise systems. It covers topics such as reinforced concrete, steel and engineered wood design, and provides an introduction to tensile systems. Lectures also address the contemporary exterior envelope with an emphasis on their performance attributes and advanced manufacturing technologies. This course is required of MArch students.\n",
+  "department_numbers": [
+    "4"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "4.463",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
